@@ -7,7 +7,7 @@
 - 😄 Welcome to my page!
 
   
-- *<ins>**Please Note:**</ins> PhD related projects will be shared on my academic profile, @LaraAmusan
+- *<ins>**Please Note:**</ins> PhD related projects will be shared on my academic profile, [@LaraAmusan](https://github.com/LaraAmusan)
 
 <!---
 larasacodes/larasacodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
